@@ -9,7 +9,7 @@ use MyLibrary::Term;
 use strict;
 use warnings;
 
-our $VERSION = '3.0.3';
+our $VERSION = '3.0.4';
 
 =head1 NAME 
 

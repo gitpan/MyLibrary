@@ -1,7 +1,19 @@
+2007-09-06 15:58  emorgan
+
+	* lib/MyLibrary/Core.pm: Just incremented the version number.
+
+2007-09-06 15:55  emorgan
+
+	* INSTALL, etc/mylibrary-postgresql-schema.sql: The modification of
+	  Patron.pm is not really a modification.  The addition of
+	  mylibrary-postgresql-schema.sql should allow postgresql users to
+	  use MyLibrary. The INSTALL file was update to reflect some
+	  Postgresql instructions. --ELM
+
 2007-06-25 09:32  emorgan
 
-	* INSTALL, MANIFEST, Makefile.PL, README, lib/MyLibrary/Config.pm:
-	  [no log message]
+	* INSTALL, MANIFEST, Makefile.PL, README, lib/MyLibrary/Config.pm,
+	  ChangeLog: [no log message]
 
 2007-06-19 16:18  emorgan
 

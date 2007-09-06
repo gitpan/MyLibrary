@@ -1,5 +1,6 @@
 ChangeLog
 etc/mylibrary-mysql-schema.sql
+etc/mylibrary-postgresql-schema.sql
 INSTALL
 lib/MyLibrary/Auth.pm
 lib/MyLibrary/Auth/Basic.pm
